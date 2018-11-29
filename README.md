@@ -1,5 +1,5 @@
 # secondchancebook
-MERN project 
-The project is built with MongoDB,ExpressJS, ReactJS and NodeJS.
+a MERN project.
+This website is built with MongoDB,ExpressJS, ReactJS and NodeJS.
 
 deployment: https://client-secondchancebook.herokuapp.com/
