@@ -1,0 +1,111 @@
+body {
+  margin: 100px;
+  padding: 0;
+  background-image: url("1.jpg");
+  background-size: 30%;
+  font-family: sans-serif;
+}
+
+#idb_publications_widget {
+  width: 500px;
+  margin: 10px auto;
+  text-align: center;
+  background-color: cyan;
+   
+}
+.col{
+  margin-top: 0px;
+}
+.form-control{
+  width:50%;
+  margin-bottom: 20px;
+  text-align:center;
+  margin:0 auto;
+}
+
+.formstyle{
+  margin-bottom: 20px;
+  width:45%;
+  text-align:center;
+  vertical-align: top;
+  display:inline-block
+  
+}
+
+.logreg{
+  width:100%;
+  vertical-align: top;
+  display:inline-block
+}
+
+.loginform {
+  float:right;
+  width: 45%;
+  text-align: center;
+ 
+  /* margin-top:-20%; */
+   
+
+}
+.logoutButton{
+  float: right;
+  margin-right: 200px;
+}
+.btn-warning{
+  margin: 10px;
+}
+.users{
+  margin: auto;
+  text-align: center;
+}
+.header{
+  
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 47px;
+  font-weight: bold;
+  margin: auto;
+  color: goldenrod;
+}
+h3 {
+  color: goldenrod;
+  font-weight: bold;
+  
+}
+.welcome {
+  color: goldenrod;
+  font-weight: bold;
+  text-align: center;
+  font-size: 18pt;
+  
+}
+
+
+.cursor-pointer{
+  cursor: pointer;
+}
+.card{
+  width: 500px;
+  margin: 10px auto;
+  text-align: center;
+  color:darkblue;
+ 
+}
+.card-header {
+background-color: goldenrod;
+}
+.navbar-expand-lg{
+  width: 500px;
+  margin: auto;
+}
+
+span{
+  color:white;
+  font-size: 14pt;
+  font-weight:bold;
+}
+
+.text-danger {
+  font-weight:bold;
+  font-size:18pt;
+}
