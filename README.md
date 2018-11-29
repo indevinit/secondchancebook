@@ -1,4 +1,4 @@
-# secondchancebook
+# Second Chance Book website
 a MERN project.
 This website is built with MongoDB,ExpressJS, ReactJS and NodeJS.
 
